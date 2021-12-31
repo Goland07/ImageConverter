@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_view_layout_width">350dp</dimen>
+    <dimen name="image_view_layout_height">300dp</dimen>
+    <dimen name="tip_text_size">25sp</dimen>
+    <dimen name="path_text_size">20sp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageConverter</string>
+    <string name="button_converter_text">Select image and convert to PNG</string>
+    <string name="tip_text">File saved in:</string>
+</resources>
